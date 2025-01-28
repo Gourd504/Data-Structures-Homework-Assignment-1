@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/J.H/Documents/Projects/CSE-302/Data-Structures-Homework-Assignment-1/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/J.H/Documents/Projects/CSE-302/Data-Structures-Homework-Assignment-1",
+	"dir-top-bld" : "C:/Users/J.H/Documents/Projects/CSE-302/Data-Structures-Homework-Assignment-1/cmake-build-debug",
+	"dir-top-src" : "C:/Users/J.H/Documents/Projects/CSE-302/Data-Structures-Homework-Assignment-1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/J.H/Documents/Projects/CSE-302/Data-Structures-Homework-Assignment-1/cmake-build-debug/CMakeFiles/Data_Structures_Homework_Assignment_1.dir"
+}

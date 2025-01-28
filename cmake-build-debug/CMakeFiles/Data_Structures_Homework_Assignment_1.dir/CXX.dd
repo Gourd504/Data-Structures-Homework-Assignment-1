@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Data_Structures_Homework_Assignment_1.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/Data_Structures_Homework_Assignment_1.dir/AUList.cpp.obj: dyndep
+
+build CMakeFiles/Data_Structures_Homework_Assignment_1.dir/LLSList.cpp.obj: dyndep
+
