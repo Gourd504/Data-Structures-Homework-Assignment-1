@@ -41512,6 +41512,8 @@ public:
 
     int GetNextItem();
 
+    int getMin();
+
 private:
     LNode* ListStart;
     LNode* curPos;

@@ -25,6 +25,8 @@ public:
 
     int GetNextItem(); //Gets the next element in the list.
 
+    int getMin(); // Returns smallest element in the list.
+
 
 private:
     int length;

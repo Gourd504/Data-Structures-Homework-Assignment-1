@@ -41510,6 +41510,8 @@ public:
 
     int GetNextItem();
 
+    int getMin();
+
 
 private:
     int length;
@@ -41574,4 +41576,14 @@ void AUList::PrintList() {
      std::cout<<", ";
   }
   std::cout<<")"<<std::endl;
+}
+
+int AUList::getMin() {
+  int min = ListItems[0];
+  for (int loc = 0; loc < length; loc++) {
+    if (ListItems[loc] < min)
+      min = ListItems[loc];
+  }
+  std::cout<<"Minimum value is "<<min<<std::endl;
+  return min;
 }
